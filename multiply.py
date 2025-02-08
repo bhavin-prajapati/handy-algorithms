@@ -25,7 +25,8 @@ def multiply(n1, n2):
         result = add(result, i)
     return result
 
-print(multiply([9,6], [4,2]))
+# print(multiply([9,6], [4,2]))
 
-print(multiply([9,1,2,6], [4,6,7,2]))
+# print(multiply([9,1,2,6], [4,6,7,2]))
 
+# print(multiply([9,4,7,3,2,6,3,6,2,7,8,4,7,9,4,6,7,4,3,6,8,3,4,1,2,6], [4,6,3,2,6,3,6,2,7,8,4,7,9,4,6,7,4,3,7,2]))
